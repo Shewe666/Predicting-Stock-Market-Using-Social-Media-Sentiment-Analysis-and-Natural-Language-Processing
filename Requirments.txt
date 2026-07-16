@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+nltk
+vaderSentiment
+wordcloud
+plotly
+yfinance
