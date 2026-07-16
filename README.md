@@ -119,4 +119,3 @@ pip install -r requirements.txt
 👩‍💻 Author
 Shivi Mishra
 B.Tech Computer Science & Engineering
-GitHub: **https://github.com/Shewe666**
